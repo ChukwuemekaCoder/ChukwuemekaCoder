@@ -52,3 +52,13 @@ When I'm not building — I'm playing football ⚽️, watching anime, binging a
 
 I'm always open to talking AI, research, software engineering, and fintech. Reach out anytime.
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChukwuemekaCoder/ChukwuemekaCoder/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChukwuemekaCoder/ChukwuemekaCoder/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ChukwuemekaCoder/ChukwuemekaCoder/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
