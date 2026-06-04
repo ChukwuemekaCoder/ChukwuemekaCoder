@@ -1,7 +1,5 @@
-![Greeting](https://github-greeting.vercel.app/api/greet)
-**ChukwuemekaCoder/ChukwuemekaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Greeting](https://github-greeting.vercel.app/api/greet?v=2)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
